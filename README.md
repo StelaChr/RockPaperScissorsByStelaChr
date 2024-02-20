@@ -8,6 +8,8 @@ Each object wins against one shape and loses to another. For instance, rock “c
 
 In this console game the final winner is determined out of three games.
 
+You can play the game directly in your Web browser here:
+[![image](https://github.com/StelaChr/RockPaperScissorsByStelaChr/assets/156375881/b9057944-8af1-47f8-b690-a5b03a9aa56e)](https://replit.com/@stellachr/RockPaperScissors)
 
-![image](https://github.com/StelaChr/RockPaperScissorsByStelaChr/assets/156375881/b9057944-8af1-47f8-b690-a5b03a9aa56e)
+
 
